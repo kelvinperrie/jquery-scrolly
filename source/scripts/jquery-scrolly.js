@@ -26,9 +26,7 @@
         function MoveMe(scrolly) {
             //background-position-x: 0px;
             var currentX = $(scrolly).css("background-position-x").replace("px","");
-            console.log(currentX);
             var newX = parseInt(currentX) + increment;
-            console.log(newX);
             $(scrolly).css("background-position-x", newX + "px");
             
             var wait = scrolly.data("iterationWait");
