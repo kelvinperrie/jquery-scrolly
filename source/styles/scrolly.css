@@ -1,0 +1,9 @@
+
+
+
+.scrolly {
+    width: 100%;
+    background-repeat: repeat-x;
+    position: absolute;
+    background-position-x: 0px;
+}
