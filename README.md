@@ -35,6 +35,6 @@ iterationWait (default 80) - controls the timeout value/the wait between each sp
 
 ## Examples
 
-There is an example.html in the examples folder, which can be previewed: http://htmlpreview.github.io/?https://github.com/kelvinperrie/jquery-scrolly/blob/master/examples/example1.html
+There is an example.html in the examples folder, which can be previewed: https://jqueryscrolly.netlify.app/examples/example1.html
 
 ![Example 1](examples/example1.gif?raw=true "Toot toot")
